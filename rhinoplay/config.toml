@@ -1,0 +1,4 @@
+baseURL = "https://iampavan.github.io/rhinoplay.github.io/"
+languageCode = "en-us"
+title = "RHINOPLAY"
+theme = "contrast-hugo"

@@ -1,0 +1,4 @@
+[submodule "rhinoplay/public"]
+	path = rhinoplay/public
+	url = https://github.com/iampavan/rhinoplay.github.io.git
+	branch = main
