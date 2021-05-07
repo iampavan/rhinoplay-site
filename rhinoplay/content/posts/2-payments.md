@@ -6,4 +6,4 @@ draft: false
 
 ## Rhinoplay - Razorpay payments
 
-<https://rzp.io/l/rhinoplay>{:target="_blank"}
+https://rzp.io/l/rhinoplay
